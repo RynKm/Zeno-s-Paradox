@@ -29,7 +29,6 @@ decimals, and a suggestion was to display the numbers in a fraction form. Howeve
 this would take up more space in the result portion of the code, and it made more 
 sense to display the results in decimal format. 
 
-
 RESULTS (code output)
 
 (list
